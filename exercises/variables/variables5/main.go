@@ -1,12 +1,11 @@
 // variables5
 // Make me compile!
 
-// I AM NOT DONE
 package main
 
 import "fmt"
 
-const Pi
+const Pi = 1
 
 func main() {
 	fmt.Println(Pi)
