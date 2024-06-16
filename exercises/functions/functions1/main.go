@@ -7,3 +7,5 @@ package main
 func main() {
 	call_me()
 }
+
+func call_me() { }
